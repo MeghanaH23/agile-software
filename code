@@ -1,0 +1,14 @@
+# if _Name_ =="_main_";
+
+print ("addition of two number")
+a=int(input())
+b=int(input())1
+sum=a+b
+print(sum)
+
+print("printing n natural number")
+n=input()
+for i in range(0,10):
+  print(i)
+
+     
